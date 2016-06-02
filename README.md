@@ -1,4 +1,4 @@
-# basicBot (custom)
+# Customizations of the copy of basicbot by Benzi
 > A not so basic bot for plug.dj
 
 ---
